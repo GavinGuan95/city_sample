@@ -1,0 +1,6 @@
+{
+  "files.watcherExclude": {
+    "**/MatrixCity/small_city/**": true,
+    "**/MatrixCity/big_city/**": true
+  }
+}

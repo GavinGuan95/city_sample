@@ -1,1 +1,7 @@
-MatrixCity/
+MatrixCity/small_city/
+MatrixCity/big_city/
+MatrixCity/selected_100_images/
+MatrixCity/outputs/
+
+
+__pycache__/
